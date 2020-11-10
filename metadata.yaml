@@ -1,0 +1,27 @@
+_repo: Our-Navy-at-war_63596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daniels, Josephus
+    birthdate: 1862
+    deathdate: 1948
+    gutenberg_agent_id: '3396'
+    url: http://www.gutenberg.org/2009/agents/3396
+    wikipedia: https://en.wikipedia.org/wiki/Josephus_Daniels
+description: ''
+gutenberg_issued: '2020-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63596'
+  lccn: '22004441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- History -- World War, 1914-1918'
+- !lcsh 'World War, 1939-1945 -- Naval operations, American'
+- !lcc 'D501'
+- GITenberg
+title: Our Navy at war
+url: http://www.gutenberg.org/ebooks/63596

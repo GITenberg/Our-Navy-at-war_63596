@@ -1,5 +1,8 @@
 _repo: Our-Navy-at-war_63596
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63596-h/images/cover.jpg
 creator:
   author:
     agent_name: Daniels, Josephus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3396
     wikipedia: https://en.wikipedia.org/wiki/Josephus_Daniels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63596#Our-Navy-at-war
 gutenberg_issued: '2020-11-01'
 gutenberg_type: Text
 identifiers:
